@@ -1,0 +1,33 @@
+.logo {
+    max-height: 92px;
+    width: auto;
+}
+
+.border-none {
+    border: none
+}
+
+.searchbar {
+    max-width: 548px
+}
+
+.search {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.mic {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+}
+
+.bar {
+    border: none;
+}
+
+.button {
+    padding: 5px 15px 5px 15px;
+}
